@@ -1,7 +1,7 @@
 # new project
 
 This project was created from local system.
-Created by Kajal Gupta.
+Created by Kajal Gupta!!
 
 # git remote add origin 
 remote - jha pr code ko push krna chah rhe.
@@ -9,3 +9,6 @@ a remote origin refers to the remote repository where your local repository's co
 
 # git remote -v
 The git remote -v command is used to display the URLs that Git uses to fetch and push updates to a remote repository.
+
+# git push -u origin main
+git push -u origin main, you are pushing your local changes to the remote repository's main branch and setting the upstream branch for the current branch.
