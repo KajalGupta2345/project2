@@ -14,6 +14,10 @@ The git remote -v command is used to display the URLs that Git uses to fetch and
 git push -u origin main, you are pushing your local changes to the remote repository's main branch and setting the upstream branch for the current branch.
 
 # WorkFlow 
-
 Github:- code changes -> Github
 Local Git:- code changes -> add -> commit -> push
+
+# Git Branches 
+a branch is a new/separate version of the main repository.
+
+
