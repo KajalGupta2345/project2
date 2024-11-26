@@ -34,3 +34,9 @@ Git pull is a command which is used to fetch and integrate the changes which are
 
 # merge conflicts 
 A merge conflict happens when Git is unable to automatically reconcile differences in code between two commits. This typically occurs during a merge operation, where changes from different branches are combined.
+
+# Fixing Mistakes
+
+git reset -> Git reset is a powerful command used to undo changes in your working directory and staging area.
+
+git reset HEAD~1 -> The HEAD~1 argument specifies the commit to which you want to reset.
